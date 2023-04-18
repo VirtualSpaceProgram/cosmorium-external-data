@@ -2,8 +2,14 @@
 	"private": true,
 	"name": "@esperecyan/web-site-private-template",
 	"type": "module",
+	"dependencies": {
+		"js-yaml": "^4.1.0"
+	},
 	"devDependencies": {
 		"@esperecyan/eslint-config": "^2.5.0",
 		"eslint": "^8.38.0"
+	},
+	"scripts": {
+		"build": "node fetch-data.js"
 	}
 }
