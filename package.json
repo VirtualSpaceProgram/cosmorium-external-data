@@ -1,6 +1,6 @@
 {
 	"private": true,
-	"name": "@esperecyan/web-site-private-template",
+	"name": "@virtual-space-program/cosmorium-external-data",
 	"type": "module",
 	"dependencies": {
 		"js-yaml": "^4.1.0"
