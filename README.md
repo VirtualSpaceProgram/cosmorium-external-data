@@ -22,6 +22,7 @@ Text Loading用です。
 
 ### データ確認用 URL
 https://virtualspaceprogram.github.io/cosmorium-external-data/satellites.txt
+
 https://virtualspaceprogram.github.io/cosmorium-external-data/satellites.png
 
 ### 更新頻度
